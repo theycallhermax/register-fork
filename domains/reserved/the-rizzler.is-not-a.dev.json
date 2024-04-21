@@ -1,0 +1,13 @@
+{
+    "description": "Fediverse instance for the-rizzler.is-not-a.dev",
+    "domain": "is-not-a.dev",
+    "subdomain": "the-rizzler",
+    "owner": {
+        "repo": "https://github.com/theycallhermax/.github",
+        "email": "mdwalters.pm@proton.me"
+    },
+    "record": {
+        "CNAME": "exozy.me"
+    },
+    "proxied": false
+}
